@@ -1,4 +1,6 @@
-# Release Version 0 "Under Main"
+########################################
+# Release Version 0 "Under Main"       #
+########################################
 To create new branch from CLI
 echo "# Terraform" >> README.md
 git init
